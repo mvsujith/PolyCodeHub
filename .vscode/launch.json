@@ -1,0 +1,80 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TestClass",
+      "request": "launch",
+      "mainClass": "Java.TestClass",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "Islands",
+      "request": "launch",
+      "mainClass": "Java.Islands",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "TramRide",
+      "request": "launch",
+      "mainClass": "Java.TramRide",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "PrimeExample2",
+      "request": "launch",
+      "mainClass": "Java.PrimeExample2",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "Pat",
+      "request": "launch",
+      "mainClass": "Java.Patterns.Pat",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "p1",
+      "request": "launch",
+      "mainClass": "Java.Patterns.p1",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Java.Patterns.Main",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "type": "java",
+      "name": "P1",
+      "request": "launch",
+      "mainClass": "Java.Patterns.P1",
+      "projectName": "Sujithmv_91fe9169"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/91958/Documents/GitHub/Sujithmv/C",
+      "program": "c:/Users/91958/Documents/GitHub/Sujithmv/C/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
